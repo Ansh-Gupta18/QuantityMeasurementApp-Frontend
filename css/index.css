@@ -13,7 +13,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     color: #333;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #ef5350 0%, #c62828 100%);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -37,7 +37,7 @@ body {
 .logo h1 {
     font-size: 2rem;
     font-weight: 700;
-    color: #667eea;
+    color: #ef5350;
     margin: 0;
 }
 
@@ -57,7 +57,7 @@ body {
 }
 
 .main-nav ul li a:hover {
-    background-color: #667eea;
+    background-color: #ef5350;
     color: white;
     transform: translateY(-2px);
 }
@@ -162,7 +162,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     color: #333;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #ef5350 0%, #c62828 100%);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -186,7 +186,7 @@ body {
 .logo h1 {
     font-size: 2rem;
     font-weight: 700;
-    color: #667eea;
+    color: #ef5350;
     margin: 0;
 }
 
@@ -206,7 +206,7 @@ body {
 }
 
 .main-nav ul li a:hover {
-    background-color: #667eea;
+    background-color: #ef5350;
     color: white;
     transform: translateY(-2px);
 }
